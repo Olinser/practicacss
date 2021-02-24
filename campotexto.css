@@ -1,0 +1,31 @@
+INPUT {
+font-size : 8pt;
+}
+
+#fbuscar form{
+margin-bottom : 0px;
+margin-top : 0px;
+}
+
+#campotexto{
+float: left;
+}
+
+#campotexto input{
+width:100px;
+}
+
+El input que hay dentro de la capa campotexto debe tener 100 pixels de ancho.
+
+#botonbuscar {
+padding-top : 3px;
+padding-left: 106px;
+}
+
+#botonbuscar input{
+border : 0px none;
+}
+
+.radio{
+clear:both;
+}

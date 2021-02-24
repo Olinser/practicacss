@@ -1,0 +1,18 @@
+BODY {
+background : #C0D9D9 url(img/tec.gif) repeat;
+font : 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+color : #C16D1D1;
+margin : 20px 0px 20px 0px;
+text-align: center;
+}
+
+<div id="contenedor">
+
+</div>
+
+#contenedor{
+text-align: left;
+width: 700px;
+background-color : #ffffff;
+margin: auto;
+}

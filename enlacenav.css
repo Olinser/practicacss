@@ -1,0 +1,13 @@
+#navegador{
+background : #F5F4C3 url(images/tec.gif);
+padding : 3px 10px 5px 10px;
+border-top : 1px solid #cccccc;
+border-bottom : 1px solid #cccccc;
+}
+
+A.enlacenav, A.enlacenav:VISITED, A.enlacenav:ACTIVE, A.enlacenav:FOCUS, A.enlacenav:LINK{
+color: #494E6B;
+}
+A.enlacenav:HOVER{
+color: #3F7DE3;
+}

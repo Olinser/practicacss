@@ -1,0 +1,12 @@
+#cabecera{
+height : 106px;
+width: 700px;
+}
+
+
+A.enlacenav, A.enlacenav:VISITED, A.enlacenav:ACTIVE, A.enlacenav:FOCUS, A.enlacenav:LINK{
+color: #494E6B;
+}
+A.enlacenav:HOVER{
+color: #3F7DE3;
+}

@@ -1,0 +1,11 @@
+#otras ul{
+margin : 5px 10px 0px 0px;
+padding: 0px 0px 0px 4px;
+list-style: none;
+}
+
+#otras li{
+padding-left: 14px;
+background: transparent url(".img/tec.gif") 0 2px no-repeat;
+margin-bottom: 10px;
+}

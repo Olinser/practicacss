@@ -1,0 +1,12 @@
+#cabecera2{
+   	background: transparent url(images/cabecera.jpg) repeat;
+   	height: 288px;
+   	width: 549px;
+}
+
+#cabecera2 h1 {
+   	margin: 0px 0px 0px 0px;
+}
+#cabecera2 h1 span {
+   display:none;
+}
